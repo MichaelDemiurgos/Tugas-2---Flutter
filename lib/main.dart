@@ -37,7 +37,6 @@ class _MyHomePageState extends State<MyHomePage> {
     });
   }
 
-  // TAMBAHAN: fungsi decrement
   void _decrementCounter() {
     setState(() {
       _counter--;
